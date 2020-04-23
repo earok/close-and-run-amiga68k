@@ -24,7 +24,7 @@ As previously mentioned, you may wish to investigate making your game load in an
 
 Add21K restores some of the lost RAM by trashing the CLI's bitplanes. Though of course, you only get 21KB back this way.
 
-The "official" Commodore way will regain a similar amount of memory, though not quite as much. You'll need the tool "Endrun" to open your app after the CLI is closed, and you'll need to run CloseWorkbench() inside your app to actually free the memory.
+The "official" Commodore way will regain a similar amount of memory as CloseRun, though not quite as much. You'll need the tool "Endrun" to open your app after the CLI is closed, and you'll need to run CloseWorkbench() inside your app to actually free the memory.
 
 More information here: http://amigadev.elowar.com/read/ADCD_2.1/AmigaMail_Vol2_guide/node002B.html
 
