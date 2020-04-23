@@ -17,7 +17,7 @@ When used like this:
 
 `closerun the "quick" brown "fox`
 
-CloseRun will load the "quick" and "fox" executables in succession, ignoring text outside of quotes - so it can be used for creative startup-sequence expressions.
+CloseRun will load the "quick" and "fox" executables in succession, ignoring text outside of quotes - so it can be used for creative startup-sequence text.
 
 ## Other alternatives
 As previously mentioned, you may wish to investigate making your game load in an NDOS way.
